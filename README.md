@@ -3,11 +3,13 @@ WART
 
 WhatsApp Registration Tool
 
+Originally created by [shirioko](https://github.com/shirioko)
+
 ![WART](https://f.cloud.github.com/assets/1610953/1016583/bfb519ec-0bfd-11e3-8c42-3b44f0014e90.png)
 
-Uses token generator created by our lord and saviour [Jake](https://github.com/dynogic)
+Uses token generator created by [WhatsAPI Official Team](https://github.com/mgp25/WhatsAPI-Official)
 
-Uses [WhatsApiNet](https://github.com/shirioko/WhatsAPINet) fork by me
+Uses [WhatsApiNet](https://github.com/mgp25/WhatsAPINet) fork by me
 
 Requires .NET Framework 4 or Mono Framework
 
